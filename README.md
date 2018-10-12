@@ -1,6 +1,6 @@
 # Rescue-Team
-->Our main motto is to find a better way to manage the impact of natural disasters.
-->Its a Website for co-ordinating the rehabilitation of the people affected in Natural Disasters which includes features like Requesting     for help, Finding Missing Persons, Adding Collection Centres and Relief Camps.
+#->Our main motto is to find a better way to manage the impact of natural disasters.
+#->Its a Website for co-ordinating the rehabilitation of the people affected in Natural Disasters which includes features like Requesting     for help, Finding Missing Persons, Adding Collection Centres and Relief Camps.
   It also shows the requirements of the effected people which helps the contributors for Donation.
 ->Requesting for help: The Website uses GPS connection to know the current location of the person and the person enters his need , there     by  informing to nearby Volunteers, NGO's.
 ->Announcements:  It contains the information about  vulnarabilities and risks that are to be faced by people in the danger proned area,
