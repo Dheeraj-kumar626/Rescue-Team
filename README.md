@@ -1,5 +1,4 @@
 # Rescue-Team
-
 ->Our main motto is to find a better way to manage the impact of natural disasters.
 ->Its a Website for co-ordinating the rehabilitation of the people affected in Natural Disasters which includes features like Requesting     for help, Finding Missing Persons, Adding Collection Centres and Relief Camps.
   It also shows the requirements of the effected people which helps the contributors for Donation.
